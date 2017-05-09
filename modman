@@ -1,0 +1,6 @@
+src/app/code/community/Trendmarke/Validatezip/                       app/code/community/Trendmarke/Validatezip/
+src/app/etc/modules/Trendmarke_Validatezip.xml                       app/etc/modules/Trendmarke_Validatezip.xml
+src/app/design/adminhtml/base/default/layout/validatezip.xml     app/design/adminhtml/base/default/layout/validatezip.xml
+src/app/design/adminhtml/base/default/template/validatezip/      app/design/adminhtml/base/default/template/validatezip/
+src/js/trendmarke/extend_zip_validate.xml     js/trendmarke/extend_zip_validate.xml
+src/js/trendmarke/extend_zip_validate_jquery.xml     js/trendmarke/extend_zip_validate_jquery.xml
